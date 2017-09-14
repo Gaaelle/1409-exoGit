@@ -1,5 +1,5 @@
-<?php 
+<?php
 
 $name="Gaelle";
 
-echo $name;
+echo 'Mon nom est ' . $name;
