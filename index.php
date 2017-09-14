@@ -1,5 +1,6 @@
 <?php
 
 $name="Gaelle";
+$time="J-2";
 
-echo "Yop, je m'appelle " . $name;
+echo 'Mon nom est ' . $name . ', et j\'ai mon appart dans ' . $time;
